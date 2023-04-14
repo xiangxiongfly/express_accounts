@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "id": "lo8uoltE0",
+      "title": "中饭",
+      "time": "2023-04-23",
+      "type": "-1",
+      "account": "50",
+      "remarks": "鸡腿饭"
+    },
+    {
+      "id": "QkqwXehk4",
+      "title": "发工资",
+      "time": "2023-04-22",
+      "type": "1",
+      "account": "3000",
+      "remarks": "发工资了"
+    },
+    {
+      "id": "D-PPwRtAp",
+      "title": "生日",
+      "time": "2023-04-22",
+      "type": "-1",
+      "account": "200",
+      "remarks": "生日礼物"
+    }
+  ]
+}
